@@ -1,0 +1,14 @@
+[
+  {
+    "email": "a@alfa.com",
+    "year": "1981",
+    "fruit": "banana",
+    "color": "blue"
+  },
+  {
+    "email": "b@alfa.com",
+    "year": "1981",
+    "fruit": "banana",
+    "color": "blue"
+  }
+]
